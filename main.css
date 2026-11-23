@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  min-height: 100vh;
+  background-color: rgb(116, 202, 234);
+  text-align: center;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.welcome{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.welcometext{
+ 
+  font-size: 40px;
+  font-family:cursive;
+}
+
+.content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
